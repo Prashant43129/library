@@ -1,5 +1,5 @@
 def download (user,repo)
 {
-    https://github.com/$(user)/$(repo)"
+    git "https://github.com/$(user)/$(repo)"
 }
   
